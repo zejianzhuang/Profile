@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zejianzhuang
+- 👋 Hi, I’m Zejian Zhuang(庄泽坚)
 - 👀 I’m interested in quantum computation and quantum information
 - 🌱 I’m currently learning quantum computation
 - 💞️ I’m looking to collaborate on ...
